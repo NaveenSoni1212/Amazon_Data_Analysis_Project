@@ -1,6 +1,6 @@
 # Amazon Product Sales Analysis Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+
 
 ## 📊 Project Objective
 
